@@ -1,5 +1,5 @@
-# sea.com
-<!DOCTYPE html>
+# sea
+<html>
 <html lang="en">
 <head>
   <title>evil or god</title>
@@ -23,7 +23,7 @@
     <center><h1>ME AND inside</h1></center>
   </div>
   <div>
-  <p >My name is <b>Sahil chand rajwar</b>. I have never kill any person , but one day 1 candy....I can manipulate anyone even my teacher too, 
+  <p >My name is <b>Sahil chand rajwar</b>. I have never kill any person , but one day 1 candy...., 
 the only bad thing about me is lie, i lie toomuch </p>
   <P my class="me"> I had opened one file, it is inside my brain. HEY can you tell me how i can become <b><u>god?</u></b></P>
 </div>
